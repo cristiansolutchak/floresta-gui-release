@@ -1,0 +1,5 @@
+Ed25519 public keys that sign florestad/manifest.json (hex, 32 bytes).
+Floresta GUI trusts exactly these (lib/features/installation/data/release_keys.dart).
+
+prod-2026a  3f0fcbf73c0e4fe3e31d22d2d16c77631abf73d193e1db4d78d758d5ee1aa2f0  (signs releases)
+prod-2026b  6599cea56f7c2efb4f2bbec8a8b66455a8e24c4dd44f72746daf53e216f30706  (backup)

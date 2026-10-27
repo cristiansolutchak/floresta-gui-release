@@ -1,0 +1,16 @@
+{
+  "artifact": "florestad-v0.9.1-macos-arm64",
+  "os": "macos",
+  "arch": "arm64",
+  "rustTarget": "aarch64-apple-darwin",
+  "version": "0.9.1",
+  "upstreamTag": "v0.9.1",
+  "upstreamCommit": "bc2db8d07e72651f9981ce589c5688f4d575dc7a",
+  "tagSigner": "2C8E0F836FD7DBBBB9E9B2EF89964EC3AB22B2E3",
+  "sourceTarSha256": "fc729e4605391390bd63622b8df9aa1e957e6ba80307c491ee4efa576052165c",
+  "rustc": "rustc 1.95.0 (59807616e 2026-04-14)",
+  "minOs": "11.0",
+  "sha256": "ab961eda917cdc854768ec675f2f97fedf3a3917218e1511c0587d5f1eac499f",
+  "size": 16542768,
+  "builtAt": "2026-10-24T23:28:55Z"
+}
